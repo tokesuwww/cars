@@ -1,0 +1,12 @@
+Lada/Granta/Vesta/Priora/Niva/Kalina
+Honda/CR-V/Freed/Civic/Stepwgn
+Audi/A7/Q7/S5 седан/A4 седан/A5 Sportback
+Ford/Focus/Edge
+BMW/1 серии/3 серии/5 серии/X1/X3/6 серии
+Volkswagen/Jetta/Polo/Passat
+Porsche/Panamera/911/Cayenne/Macan
+Peugeot/Partner/206/408/508/3008
+Mazda/CX-7/3/6/Familia
+Lexus/LEXUC UX/LEXUC NX/LEXUC RX/LEXUC LX/LEXUC LC
+Toyota/Corolla/Camry/RAV4/Land Crusier Prado
+Cadillac/CADILAC XT5/CADILAC ESCALADE/CADILAC XT4
